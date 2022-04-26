@@ -302,6 +302,7 @@ a.links:hover {
     width: 100%;
 }
 
+/* Extra small devices (phones, 600px and down) */
 @media only screen and (max-width: 600px) {
     .login-page {
         width: 20rem;
@@ -309,5 +310,16 @@ a.links:hover {
 
     .sign-in-page {
         width: 20rem;
+    }
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+    .login-page {
+        width: 40rem;
+    }
+
+    .sign-in-page {
+        width: 40rem;
     }
 }

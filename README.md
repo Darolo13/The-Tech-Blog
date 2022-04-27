@@ -30,7 +30,8 @@ Ready Features:
 
 2. **Allows to create an account**
 
-![Initial-display](./assets/screenshots/signup.png)
+![image](https://user-images.githubusercontent.com/70618345/165442359-7835e0a5-ea53-491f-8575-6965a9e0e1b2.png)
+
 
 3. **Allows the user to login with the username and password before created**
 
